@@ -8,10 +8,10 @@
 - component - 头部自定义文件
 
 ###项目截图
-<img src="https://github.com/feiercommon/wxChat-custom/img/mark/1.jpg" width="320px" style="display:inline">
+<img src="https://github.com/feiercommon/wxChat-custom/blob/master/imgs/mark/1.jpg" width="320px" style="display:inline">
 
-<img src="https://github.com/feiercommon/wxChat-custom/img/mark/2.jpg" width="320px" style="display:inline">
+<img src="https://github.com/feiercommon/wxChat-custom/blob/master/imgs/mark/2.jpg" width="320px" style="display:inline">
 
-<img src="https://github.com/feiercommon/wxChat-custom/img/mark/3.jpg" width="320px" style="display:inline">
+<img src="https://github.com/feiercommon/wxChat-custom/blob/master/imgs/mark/3.jpg" width="320px" style="display:inline">
  
  
