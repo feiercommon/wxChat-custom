@@ -1,0 +1,4 @@
+<!--pages/me/me.wxml-->
+<component-topnav inner-title="我的管理" is-show-back="true"></component-topnav> 
+<text>pages/me/me.wxml</text>
+<view class='box' bindtap="metap"></view>

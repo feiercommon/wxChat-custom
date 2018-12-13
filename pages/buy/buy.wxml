@@ -1,0 +1,4 @@
+<!--pages/buy/buy.wxml-->
+<component-topnav inner-title="我的管理" is-show-back="true"></component-topnav> 
+<text>pages/buy/buy.wxml</text>
+<tabbar tabbar="{{tabbar}}"></tabbar> 

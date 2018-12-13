@@ -1,0 +1,7 @@
+<!--pages/category/category.wxml-->
+<component-topnav inner-title="分类" is-show-back="false"></component-topnav> 
+<view class="container">
+  <text>我的页面</text>
+  <tabbar tabbar="{{tabbar}}"></tabbar>
+</view>
+<!-- <tabbar tabbar="{{tabbar}}"></tabbar> -->

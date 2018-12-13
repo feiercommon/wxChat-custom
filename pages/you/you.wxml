@@ -1,0 +1,4 @@
+<!--pages/you/you.wxml-->
+<component-topnav inner-title="我的管理" is-show-back="true"></component-topnav> 
+<text>pages/you/you.wxml</text>
+<view class='box' bindtap="youtap"></view>
